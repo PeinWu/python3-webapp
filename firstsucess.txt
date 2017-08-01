@@ -1,0 +1,5 @@
+This is the first sucess operate in git
+hah
+just record it and 
+push it to the gitlib
+
